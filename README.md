@@ -1,5 +1,5 @@
 # 💫 Hi there,
-My name is Shivam. I'm an electronics student in my 4th semester, navigating the exciting intersection of hardware and software. I'm currently broadening my horizons in machine learning and data science.
+My name is Shivam. I'm an electronics student in my 5th semester, navigating the exciting intersection of hardware and software. I'm currently broadening my horizons in machine learning and data science.
 
 
 ## 🌐 Socials
