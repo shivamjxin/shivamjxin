@@ -10,4 +10,4 @@ My name is Shivam. I'm an electronics student in my 5th semester, navigating the
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=shivamjxin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivamjxin&theme=dark&hide_border=false)<br/>
-]
+
